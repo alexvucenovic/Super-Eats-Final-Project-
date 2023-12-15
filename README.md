@@ -1,4 +1,5 @@
-# Super-Eats-Final-Project- The purpose of our requirements document is to inform potential users and investors of SuperEats’ 
-# functional specifications and performance expectations. To review the system’s attributes, methods, and 
-# functions, a class diagram, the system requirements, use case diagrams, and use case scenarios will be 
-# provided to viewers. 
+# Super-Eats-Final-Project- SuperEats Project Sched: Project Schedule 
+# SuperEats Class Diagram: Class Diagram & Object State Charts 
+# SuperEats Use Case Diagram: Use Case Diagram
+# SuperEats Use Case Scenarios: Excel Sheet of Use Case Scenarios 
+# SuperEats Sequence Diagram: Sequence Diagram 
