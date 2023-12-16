@@ -1,0 +1,322 @@
+<mxfile host="Electron" modified="2023-10-16T19:06:09.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="sXn8Yoap97HccTYVRi5M" version="22.0.2" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="830" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Super Eats&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="240" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-11" value="Orders" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.996;exitY=0.152;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-2" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="272" />
+              <mxPoint x="170" y="272" />
+              <mxPoint x="170" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="220" />
+              <mxPoint x="330" y="220" />
+              <mxPoint x="330" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-49" value="Payment Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-48">
+          <mxGeometry x="-0.0616" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;User&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-4" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="190" />
+              <mxPoint x="490" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-33" value="Car Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-32">
+          <mxGeometry x="0.0875" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Driver&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Food Business&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="380.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="440" />
+              <mxPoint x="451" y="440" />
+              <mxPoint x="451" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-56" value="Delivery Fee Stats" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-55">
+          <mxGeometry x="-0.1304" y="-3" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-8" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="550" />
+              <mxPoint x="280" y="470" />
+              <mxPoint x="375" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-58" value="Delivery Fee/Tax" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-57">
+          <mxGeometry x="0.0664" y="2" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Food Delivery Service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="500" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.008;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-2" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="sourcePoint" />
+            <mxPoint x="290" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-16" value="Account Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-15">
+          <mxGeometry x="-0.2621" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="325" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="290" />
+              <mxPoint x="325" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-20" value="Messages w/ Driver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-17">
+          <mxGeometry x="-0.2714" y="1" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-2" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="248" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-22" value="Search Requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-21">
+          <mxGeometry x="-0.1048" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.52" y="320" as="sourcePoint" />
+            <mxPoint x="170.00000000000003" y="319" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="247.52" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-25" value="Order Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-24">
+          <mxGeometry x="0.1386" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="335" as="sourcePoint" />
+            <mxPoint x="170.48000000000002" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="335" />
+              <mxPoint x="290" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-29" value="Search Results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-28">
+          <mxGeometry x="0.1386" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.52" y="350" as="sourcePoint" />
+            <mxPoint x="170.00000000000003" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="289.52" y="350" />
+              <mxPoint x="289.52" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-31" value="Comparative Analysis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-30">
+          <mxGeometry x="0.1386" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.671;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-4" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="190" />
+              <mxPoint x="460" y="190" />
+              <mxPoint x="460" y="238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-35" value="Driver Info&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-34">
+          <mxGeometry x="-0.2166" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.295;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-1" target="KAGtheB1Xs3RznEdJn3D-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="220" />
+              <mxPoint x="392" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-37" value="Order Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-36">
+          <mxGeometry x="-0.3099" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.174;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-4" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="160" />
+              <mxPoint x="320" y="200" />
+              <mxPoint x="360" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-40" value="Messages w/ User&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-39">
+          <mxGeometry x="0.1081" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.944;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-4" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="110" />
+              <mxPoint x="540" y="210" />
+              <mxPoint x="514" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-43" value="Driver Location" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-42">
+          <mxGeometry x="0.0099" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.438;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-1" target="KAGtheB1Xs3RznEdJn3D-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="80" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="400" />
+              <mxPoint x="200" y="400" />
+              <mxPoint x="80" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-45" value="Driver Location" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-44">
+          <mxGeometry x="0.0464" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="275" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-47" value="Menu Options" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-46">
+          <mxGeometry x="0.042" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="300" as="sourcePoint" />
+            <mxPoint x="525" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-52" value="Menu Option Price" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-51">
+          <mxGeometry x="0.042" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.863;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-8" target="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="550" />
+              <mxPoint x="550" y="450" />
+              <mxPoint x="498" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-54" value="Delivery Time Stats" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-53">
+          <mxGeometry x="0.3355" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAGtheB1Xs3RznEdJn3D-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="340" />
+              <mxPoint x="620" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-60" value="Order Payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-59">
+          <mxGeometry x="0.1251" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.013;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KAGtheB1Xs3RznEdJn3D-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="250" as="sourcePoint" />
+            <mxPoint x="575" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="250" />
+              <mxPoint x="600" y="78" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-62" value="Driver Fee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-61">
+          <mxGeometry x="0.7597" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="320" as="sourcePoint" />
+            <mxPoint x="525" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAGtheB1Xs3RznEdJn3D-65" value="Business Location" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAGtheB1Xs3RznEdJn3D-64">
+          <mxGeometry x="0.042" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
