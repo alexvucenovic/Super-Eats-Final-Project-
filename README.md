@@ -2,9 +2,10 @@
 
 ## Super Eats is the best intermediary platform for food delivery, combining all delivery services and utilizing our internal function Comparative Analysis to find the best prices on food near you! Super Eats contains all major food delivery services and various food services, currently the best app for all things food!
 
-### In this GitHub you will find all our documents containing our planning, system requirements, and system designs. Any questions about our app or its functions, direct to alex.vucenovic@student.ccm.edu
+### In this GitHub you will find all our documents containing our planning, system requirements, and system designs. Any questions about our app or its functions, direct to vucenovic.alexand@student.ccm.edu
 
 #### Super Eats Documents:
+* [Sequence Diagram](
 * [Project Plan](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Super%20Eats%20Project%20Plan%20.docx.pdf)
 * [Project Schedule](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Super%20Eats%20Project%20Sched.pod)
 * [System Context Diagram](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Super%20Eats%20System%20Context%20Diagram.drawio)
