@@ -20,5 +20,5 @@
   
 [System Design Documents](https://github.com/alexvucenovic/Super-Eats-Final-Project-/tree/main/System%20Design)
 * [Sequence Diagram](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/System%20Design/Sequence%20Diagram%20Super%20Eats.drawio)
-* [State Chart](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/System%20Design/State%20Chart%20Super%20Eats.drawio)
+* [Object State Chart](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/System%20Design/State%20Chart%20Super%20Eats.drawio)
 * [Design Level Class Diagram](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/System%20Design/Design%20Level%20Class%20Diagram%20Super%20Eats.drawio)
