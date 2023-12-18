@@ -7,7 +7,7 @@
 ### Super Eats Documents:
 
 [Project Plan Documents](https://github.com/alexvucenovic/Super-Eats-Final-Project-/tree/main/Project%20Plan)
-* [Project Plan](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Super%20Eats%20Project%20Plan%20.docx.pdf)
+* [Project Plan](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Project%20Plan/Project%20Plan%20Super%20Eats.docx.pdf)
 * [Project Schedule](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Project%20Plan/Project%20Schedule%20Super%20Eats.pod)
 * [System Context Diagram](https://github.com/alexvucenovic/Super-Eats-Final-Project-/blob/main/Project%20Plan/System%20Context%20Diagram%20Super%20Eats.drawio)
 
